@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python) 
+
 # Smile Detection using OpenCV
 
 This project uses OpenCV to detect faces and smiles in real-time through a webcam feed. It uses Haar Cascades for face, eye, and smile detection.
