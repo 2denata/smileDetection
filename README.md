@@ -33,6 +33,8 @@ The program will open a video stream using your webcam. To stop the video stream
 When the program is running, it looks like this:
 - Faces are highlighted with a blue rectangle.
 - Smiles are highlighted with a red rectangle.
+![image](https://github.com/user-attachments/assets/6eb083bb-5a6d-4283-98c1-e0ef344ad3eb)
+
 
 # Acknowledgements
 - OpenCV Haar Cascades were used for face and smile detection.
